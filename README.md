@@ -25,4 +25,10 @@ Styling is done entirely with CSS and includes custom fonts, color gradients, sh
 This project is ideal for students, beginner developers, or anyone looking to build and publish a simple online presence without using JavaScript frameworks or backend services. It can be run directly in any browser and is especially easy to test using a code editor like Visual Studio Code. With the Live Server extension in VS Code, the site can be previewed in real time during development.
 
 The simplicity of the setup also makes it easy to customize. Developers can update text, add new projects, link to GitHub or LinkedIn, or even include a downloadable resume. Since no JavaScript is involved, the website loads quickly and can be hosted easily using free platforms like GitHub Pages or Netlify. Overall, this portfolio site serves as a strong starting point for building an online portfolio using only basic web development tools.
+
+
 *OUTPUT*:
+![Image](https://github.com/user-attachments/assets/1515f8e0-6452-4daa-b00c-699f36dc1939)
+
+
+![Image](https://github.com/user-attachments/assets/7bee3236-5c87-4a55-8875-363b97c78572)
